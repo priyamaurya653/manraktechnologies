@@ -1,0 +1,44 @@
+.row.hero {
+    display: flex;
+    align-items: center;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+    li {
+        display: list-item;
+        text-align: -webkit-match-parent;
+        unicode-bidi: isolate;
+        margin-top:20px;
+    }
+     ul li {
+ 
+        display: inline-block;
+        vertical-align: top;
+        font-size: 15px;
+        font-weight: 500;
+        position: relative;
+    }.topbar {
+        float: left;
+        width: 100%;
+        margin: 0;
+        padding: 5px 0;
+        background-color: #813588;
+    }
+    a {
+        color: #ffffff;
+        text-decoration: none;
+    
+        display: block;
+    }
+    li {
+        float: left;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding-top: 8px;
+        /* overflow: hidden; */
+    }
