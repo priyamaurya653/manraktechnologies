@@ -1,0 +1,46 @@
+  
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding-top: 8px;
+  
+}
+a:hover + div {
+  display: block;
+}
+
+.dropdown-menu a:hover {
+  background-color: #65048b;}
+
+
+li {
+    float: left;
+}
+           .back {
+  background-image:url("image/ple.png");
+  background-repeat: no-repeat, repeat;
+  height:50px;
+  background-size: cover;
+}
+.logo-images {
+    width: 200px;
+    height: 50px;
+}
+.nav{
+    background-color: white;
+
+}
+.less{
+    background-color: #3d0a70;
+}
+/* .nav-link {
+  color:white;
+} */
+.fa {
+  display: inline-block;
+  font: normal normal normal;
+  /* font-size: inherit; */
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
